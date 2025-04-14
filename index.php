@@ -59,14 +59,14 @@
 
             </div>
         </div>
-       
+
 
         <div id="carouselExampleSlidesOnly" class="carousel slide mobile" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img src="assets/img/about/dsfdf/m-banner.jpg" class="d-block w-100" alt="...">
                 </div>
-                
+
             </div>
         </div>
         <span id="about-us"></span>
@@ -378,7 +378,7 @@
                                                         <span>10%</span>
                                                     </div>
                                                 </div>
-                                                
+
                                             </figure>
                                             <div class="product-caption text-center">
                                                 <div class="product-identity">
@@ -424,7 +424,7 @@
                                                         <span>new</span>
                                                     </div>
                                                 </div>
-                                                
+
                                             </figure>
                                             <div class="product-caption text-center">
                                                 <div class="product-identity">
@@ -467,7 +467,7 @@
                                                         <span>new</span>
                                                     </div>
                                                 </div>
-                                                
+
                                             </figure>
                                             <div class="product-caption text-center">
                                                 <div class="product-identity">
@@ -513,7 +513,7 @@
                                                         <span>15%</span>
                                                     </div>
                                                 </div>
-                                                
+
                                             </figure>
                                             <div class="product-caption text-center">
                                                 <div class="product-identity">
@@ -559,7 +559,7 @@
                                                         <span>20%</span>
                                                     </div>
                                                 </div>
-                                                
+
                                             </figure>
                                             <div class="product-caption text-center">
                                                 <div class="product-identity">
@@ -605,7 +605,7 @@
                                                         <span>20%</span>
                                                     </div>
                                                 </div>
-                                                
+
                                             </figure>
                                             <div class="product-caption text-center">
                                                 <div class="product-identity">
@@ -652,8 +652,8 @@
                                                         <span>20%</span>
                                                     </div>
                                                 </div>
-                                                
-                                                
+
+
                                             </figure>
                                             <div class="product-caption text-center">
                                                 <div class="product-identity">
@@ -710,10 +710,15 @@
                                     <a href="#">
                                         <img src="assets/img/about/a2.jpg" alt="product banner">
                                     </a>
-                                    <div class="banner-content banner-content_style2">
-                                        <!-- <h5 class="banner-text3"><a href="#">EARRINGS</a></h5> -->
-                                    </div>
+
                                 </figure>
+                                <div class="product-caption text-center custom-caption">
+                                    <div class="price-box">
+                                        <span class="price-new">₹1799</span>
+                                        <span class="price-old">₹2099</span>
+                                    </div>
+                                    <a href="index.php#contact-us" class="contact-btn">Contact Us</a>
+                                </div>
                             </div>
                             <!-- banner single slide start -->
 
@@ -723,10 +728,15 @@
                                     <a href="#">
                                         <img src="assets/img/about/a1.jpg" alt="product banner">
                                     </a>
-                                    <div class="banner-content banner-content_style2">
-                                        <!-- <h5 class="banner-text3"><a href="#">BRACELATES</a></h5> -->
-                                    </div>
+
                                 </figure>
+                                <div class="product-caption text-center custom-caption">
+                                    <div class="price-box">
+                                        <span class="price-new">₹1050</span>
+                                        <span class="price-old">₹1299</span>
+                                    </div>
+                                    <a href="index.php#contact-us" class="contact-btn">Contact Us</a>
+                                </div>
                             </div>
                             <!-- banner single slide start -->
 
@@ -736,10 +746,15 @@
                                     <a href="#">
                                         <img src="assets/img/about/a3.jpg" alt="product banner">
                                     </a>
-                                    <div class="banner-content banner-content_style2">
-                                        <!-- <h5 class="banner-text3"><a href="#">NECJLACES</a></h5> -->
-                                    </div>
+
                                 </figure>
+                                <div class="product-caption text-center custom-caption">
+                                    <div class="price-box">
+                                        <span class="price-new">₹899</span>
+                                        <span class="price-old">₹1150</span>
+                                    </div>
+                                    <a href="index.php#contact-us" class="contact-btn">Contact Us</a>
+                                </div>
                             </div>
                             <!-- banner single slide start -->
 
@@ -749,10 +764,15 @@
                                     <a href="#">
                                         <img src="assets/img/about/a4.jpg" alt="product banner">
                                     </a>
-                                    <div class="banner-content banner-content_style2">
-                                        <!-- <h5 class="banner-text3"><a href="#">RINGS</a></h5>
-                                    </div> -->
+
                                 </figure>
+                                <div class="product-caption text-center custom-caption">
+                                    <div class="price-box">
+                                        <span class="price-new">₹1501</span>
+                                        <span class="price-old">₹1749</span>
+                                    </div>
+                                    <a href="index.php#contact-us" class="contact-btn">Contact Us</a>
+                                </div>
                             </div>
                             <!-- banner single slide start -->
                             <!-- banner single slide start -->
@@ -796,11 +816,20 @@
                                             <span>10%</span>
                                         </div>
                                     </div>
-
-
                                 </figure>
 
+                                <div class="product-caption text-center custom-caption">
+                                    <!-- Price Section -->
+                                    <div class="price-box">
+                                        <span class="price-new">₹1350</span>
+                                        <span class="price-old">₹1500</span>
+                                    </div>
+
+                                    <!-- Contact Button -->
+                                    <a href="index.php#contact-us" class="contact-btn">Contact Us</a>
+                                </div>
                             </div>
+
                             <!-- product item end -->
 
                             <!-- product item start -->
@@ -821,6 +850,13 @@
 
 
                                 </figure>
+                                <div class="product-caption text-center custom-caption">
+                                    <div class="price-box">
+                                        <span class="price-new">₹946</span>
+                                        <span class="price-old">₹1399</span>
+                                    </div>
+                                    <a href="index.php#contact-us" class="contact-btn">Contact Us</a>
+                                </div>
 
                             </div>
                             <!-- product item end -->
@@ -840,6 +876,13 @@
 
 
                                 </figure>
+                                <div class="product-caption text-center custom-caption">
+                                    <div class="price-box">
+                                        <span class="price-new">₹1375</span>
+                                        <span class="price-old">₹1700</span>
+                                    </div>
+                                    <a href="index.php#contact-us" class="contact-btn">Contact Us</a>
+                                </div>
 
                             </div>
                             <!-- product item end -->
@@ -862,6 +905,13 @@
 
 
                                 </figure>
+                                <div class="product-caption text-center custom-caption">
+                                    <div class="price-box">
+                                        <span class="price-new">₹689</span>
+                                        <span class="price-old">₹999</span>
+                                    </div>
+                                    <a href="index.php#contact-us" class="contact-btn">Contact Us</a>
+                                </div>
 
                             </div>
                             <!-- product item end -->
@@ -884,6 +934,13 @@
 
 
                                 </figure>
+                                <div class="product-caption text-center custom-caption">
+                                    <div class="price-box">
+                                        <span class="price-new">₹1720</span>
+                                        <span class="price-old">₹1990</span>
+                                    </div>
+                                    <a href="index.php#contact-us" class="contact-btn">Contact Us</a>
+                                </div>
 
                             </div>
                             <!-- product item end -->
@@ -906,6 +963,13 @@
 
 
                                 </figure>
+                                <div class="product-caption text-center custom-caption">
+                                    <div class="price-box">
+                                        <span class="price-new">₹1210</span>
+                                        <span class="price-old">₹1499</span>
+                                    </div>
+                                    <a href="index.php#contact-us" class="contact-btn">Contact Us</a>
+                                </div>
 
                             </div>
                             <!-- product item end -->
@@ -928,6 +992,13 @@
 
 
                                 </figure>
+                                <div class="product-caption text-center custom-caption">
+                                    <div class="price-box">
+                                        <span class="price-new">₹1988</span>
+                                        <span class="price-old">₹2200</span>
+                                    </div>
+                                    <a href="index.php#contact-us" class="contact-btn">Contact Us</a>
+                                </div>
 
                             </div>
                             <!-- product item end -->
@@ -947,6 +1018,13 @@
 
 
                                 </figure>
+                                <div class="product-caption text-center custom-caption">
+                                    <div class="price-box">
+                                        <span class="price-new">₹622</span>
+                                        <span class="price-old">₹899</span>
+                                    </div>
+                                    <a href="index.php#contact-us" class="contact-btn">Contact Us</a>
+                                </div>
 
                             </div>
                             <!-- product item end -->
@@ -969,6 +1047,13 @@
 
 
                                 </figure>
+                                <div class="product-caption text-center custom-caption">
+                                    <div class="price-box">
+                                        <span class="price-new">₹1433</span>
+                                        <span class="price-old">₹1699</span>
+                                    </div>
+                                    <a href="index.php#contact-us" class="contact-btn">Contact Us</a>
+                                </div>
 
                             </div>
                             <!-- product item end -->
@@ -991,6 +1076,13 @@
 
 
                                 </figure>
+                                <div class="product-caption text-center custom-caption">
+                                    <div class="price-box">
+                                        <span class="price-new">₹1582</span>
+                                        <span class="price-old">₹1850</span>
+                                    </div>
+                                    <a href="index.php#contact-us" class="contact-btn">Contact Us</a>
+                                </div>
 
                             </div>
                             <!-- product item end -->
@@ -1026,8 +1118,8 @@
                                         <div class="contact2-textarea text-center">
                                             <textarea placeholder="Message *" name="message" class="form-control2" required=""></textarea>
                                         </div>
-                                        <div class="contact-btn">
-                                            <button class="btn btn-sqr" type="submit">Send Message</button>
+                                        <div class="contact-btnn">
+                                            <button class="btn btn-sqrr" type="submit">Send Message</button>
                                         </div>
                                     </div>
                                     <div class="col-12 d-flex justify-content-center">
